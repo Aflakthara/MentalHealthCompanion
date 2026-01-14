@@ -1,0 +1,13 @@
+
+.streamlit/secrets.toml
+
+# Local memory/database
+memory.json
+user_history.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
